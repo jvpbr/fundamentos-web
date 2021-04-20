@@ -32,6 +32,17 @@ Estilos da página index.html
     align-items: center;
   
 }
+
+/*Estilos da página contato.html*/
+
+.ml-50 {
+    margin-left: 50px;
+ }
+ 
+label{
+    border-radius: 3px;
+}
+
 /*
 Estilos das páginas animes.html/series.html
 */
